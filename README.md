@@ -1,4 +1,4 @@
-# Ecommerce Management System 
+# Online Shop System
 
 A comprehensive Ecommerce platform developed in Java, demonstrating advanced Object-Oriented Programming (OOP) principles and robust system architecture.
 
